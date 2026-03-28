@@ -2,8 +2,6 @@ Title: Viv on X: "How we build evals for Deep Agents" / X
 
 URL Source: https://x.com/vtrivedy10/status/2037203679997018362
 
-Published Time: Fri, 27 Mar 2026 12:29:22 GMT
-
 Markdown Content:
 TLDR: The best agent evals directly measure an agent behavior we care about. Here’s how we source data, create metrics, and run well-scoped, targeted experiments over time to make agents more accurate and reliable.
 
@@ -49,10 +47,11 @@ There’s a few ways we source evals:
 
 or
 
-) and often adapting them for a particular agent 
+) and often adapting them for a particular agent
+
 3.   Writing our own (artisanal) evals and unit tests by hand for behaviors we think are important
 
-[![Image 1: Image](./img_082c2d4e.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037030570023096320)
+[![Image 1: Image](./img_2c56032b.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037030570023096320)
 
 We dogfood our agents every day. Every error becomes an opportunity to write an eval and update our agent definition & context engineering practices.
 
@@ -94,7 +93,7 @@ It’s helpful to have a taxonomy of evals to get a middle view of how agents pe
 
 Here are some categories we define and what they test:
 
-[![Image 2: Image](./img_215d2029.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037032922943778816)
+[![Image 2: Image](./img_24de34c0.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037032922943778816)
 
 Today, all evals are end-to-end runs of an agent on a task. We intentionally encourage diversity in eval structure. Some tasks finish in a single step from an input prompt, while others take 10+ turns with another model simulating a user.
 
@@ -106,7 +105,7 @@ Once several models clear that bar, we move to efficiency. Two models that solve
 
 All together, the metrics we measure for each evaluator run are:
 
-[![Image 3: Image](./img_197e9d3b.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037033413895741441)
+[![Image 3: Image](./img_067eb8b4.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037033413895741441)
 
 Solve rate measures how quickly an agent solves a task, normalized by the expected number of steps. Like latency ratio, it captures end-to-end time to solve the task, including model round trips, provider latency, wrong turns, and tool execution time. For simple tasks where we can define an ideal trajectory, solve rate can be easier to work with than latency ratio because it only requires measuring the given agent's task duration.
 
@@ -134,13 +133,13 @@ An agent’s ideal trajectory might look like this:
 
 Ideal trajectory: 4 steps, 4 tool calls, ~8 seconds
 
-[![Image 4: Image](./img_309bbb46.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037035229056294912)
+[![Image 4: Image](./img_35ab4ad2.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037035229056294912)
 
 Now compare that with a trajectory that is still technically correct, but less efficient.
 
 Inefficient trajectory: 6 steps, 5 tool calls, ~14 seconds.
 
-[![Image 5: Image](./img_10001902.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037035282177179648)
+[![Image 5: Image](./img_153b74dd.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037035282177179648)
 
 Correct but inefficient trajectory: 6 agent steps, 5 tool calls, includes an unnecessary tool call, and doesn’t parallelize tool calls.
 
@@ -150,7 +149,7 @@ Both runs are correct, but the second run increases latency and cost, and create
 
 This framing lets us evaluate both correctness and efficiency over evals. We maintain and update metrics to distill the runs into measurable numbers we can use to compare experiments. From the example above, the inefficient but correct run would score:
 
-[![Image 6: Image](./img_05ad5c9d.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037035696280465408)
+[![Image 6: Image](./img_27023bec.jpg)](https://x.com/Vtrivedy10/article/2037203679997018362/media/2037035696280465408)
 
 We use pytest with GitHub Actions to run evals in CI so changes run in a clean, reproducible environment. Each eval creates a Deep Agent instance with a given model, feeds it a task, and computes correctness and efficiency metrics.
 
@@ -159,27 +158,52 @@ We can also run a subset of eval using tags save costs and measure targeted expe
 bash
 
 ```
+
 export LANGSMITH_API_KEY="lsv2_..."
 
+
+
 uv run pytest tests/evals --eval-category file_operations --eval-category tool_use --model baseten:nvidia/zai-org/GLM-5
+
 ```
+
+
 
 Our eval architecture and implementation is open sourced in the
 
+
+
 .
+
+
 
 We’re expanding our eval suite and doing more work around open source LLMs! Some things we’re excited to share soon:
 
+
+
 *   How Open Models measure against closed frontier models across eval categories
+
+
 
 *   Evals as a mechanism to auto-improve agents for tasks in real time
 
+
+
 *   Openly share how we maintain, reduce, and expand evals per agent over time
+
+
 
 Thanks to the great team who helped review and co-write this blog
 
+
+
 . Also published on the LangChain blog
+
+
 
 .
 
+
+
 is fully open source. Try it and let us know what you think! We’re excited to help teams build great agents & evals.
+
