@@ -1,10 +1,10 @@
 ---
-title: "Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X"
+title: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup] / OpenClaw + Codex/ClaudeCode Agent Swarm：单人开发团队完整方案"
 source: "https://x.com/elvissun/status/2025920521871716562"
 saved_at: "2026-03-29"
 tags: ["OpenClaw", "Codex", "Claude", "AI Agent", "X/Twitter"]
 ---
-# Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
+# OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup] / OpenClaw + Codex/ClaudeCode Agent Swarm：单人开发团队完整方案
 
 I don't use Codex or Claude Code directly anymore.
 我不再直接使用 Codex 或 Claude Code 了。
@@ -102,7 +102,6 @@ Then Zoe does three things:
 
 2.   Pulls customer config from prod database — she has read-only prod DB access (my codex agents will never have this) to retrieve their existing setup, which gets included in the prompt
 \`\`\`bash
-# 创建 worktree + 启动 agent
 git worktree add ../feat-custom-templates -b feat/custom-templates origin/main
 cd ../feat-custom-templates && pnpm install
 
@@ -120,7 +119,6 @@ agent 启动方式：
 
 bash
 \`\`\`bash
-# Codex
 codex --model gpt-5.3-codex \
   -c "model_reasoning_effort=high" \
   --dangerously-bypass-approvals-and-sandbox \
@@ -128,7 +126,6 @@ codex --model gpt-5.3-codex \
 
 ```
 
-# Create worktree + spawn agent
 
 git worktree add ../feat-custom-templates -b feat/custom-templates origin/main
 
@@ -143,7 +140,6 @@ tmux new-session -d -s "codex-templates" \
   "$HOME/.codex-agent/run-agent.sh templates gpt-5.3-codex high"
 
 ```
-# Claude Code  
 claude --model claude-opus-4.5 \
   --dangerously-skip-permissions \
   -p "Your prompt here"
@@ -157,12 +153,10 @@ tmux 好得多，因为任务中重定向非常强大。Agent 走错方向了？
 
 bash
 \`\`\`bash
-# 错误方式：
 tmux send-keys -t codex-templates "Stop. Focus on the API layer first, not the UI." Enter
 
 ```
 
-# Codex
 
 codex --model gpt-5.3-codex \
 
@@ -174,7 +168,6 @@ codex --model gpt-5.3-codex \
 
 
 
-# Claude Code  
 
 claude --model claude-opus-4.5 \
 
@@ -183,7 +176,6 @@ claude --model claude-opus-4.5 \
   -p "Your prompt here"
 
 ```
-# 需要更多上下文：
 tmux send-keys -t codex-templates "The schema is in src/types/template.ts. Use that." Enter
 \`\`\`
 
@@ -211,13 +203,11 @@ bash
 
 ```
 
-# Wrong approach:
 
 tmux send-keys -t codex-templates "Stop. Focus on the API layer first, not the UI." Enter
 
 
 
-# Needs more context:
 
 tmux send-keys -t codex-templates "The schema is in src/types/template.ts. Use that." Enter
 

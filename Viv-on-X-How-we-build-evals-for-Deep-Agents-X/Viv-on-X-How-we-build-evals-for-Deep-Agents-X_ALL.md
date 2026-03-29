@@ -1,10 +1,10 @@
 ---
-title: "Viv on X: "How we build evals for Deep Agents" / X"
+title: "How we build evals for Deep Agents / 如何为 Deep Agents 构建 Evals"
 source: "https://x.com/vtrivedy10/status/2037203679997018362"
 saved_at: "2026-03-27"
 tags: ["AI Agent", "Evals", "Deep Agent", "X/Twitter"]
 ---
-# Viv on X: "How we build evals for Deep Agents" / X
+# How we build evals for Deep Agents / 如何为 Deep Agents 构建 Evals
 
 TLDR: The best agent evals directly measure an agent behavior we care about. Here’s how we source data, create metrics, and run well-scoped, targeted experiments over time to make agents more accurate and reliable.
 TLDR：最好的 agent evals 直接衡量我们关心的 agent 行为。以下是我们如何获取数据、创建指标，以及如何通过良好范围的定向实验来随时间推移提高 agents 的准确性和可靠性。

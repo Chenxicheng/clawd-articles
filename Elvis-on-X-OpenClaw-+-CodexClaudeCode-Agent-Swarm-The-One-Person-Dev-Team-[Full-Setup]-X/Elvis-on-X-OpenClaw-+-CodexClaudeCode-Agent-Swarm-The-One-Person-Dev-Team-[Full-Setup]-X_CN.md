@@ -1,11 +1,11 @@
 ---
-title: "Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X"
+title: "OpenClaw + Codex/ClaudeCode Agent Swarm：单人开发团队完整方案"
 source: "https://x.com/elvissun/status/2025920521871716562"
 saved_at: "2026-03-29"
 tags: ["OpenClaw", "Codex", "Claude", "AI Agent", "X/Twitter"]
 ---
 
-# Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
+# OpenClaw + Codex/ClaudeCode Agent Swarm：单人开发团队完整方案
 
 我不再直接使用 Codex 或 Claude Code 了。
 
@@ -72,7 +72,6 @@ OpenClaw 和 Codex 的上下文截然不同：
 每个 agent 获得自己的工作树（独立分支）和 tmux 会话：
 
 \`\`\`bash
-# 创建 worktree + 启动 agent
 git worktree add ../feat-custom-templates -b feat/custom-templates origin/main
 cd ../feat-custom-templates && pnpm install
 
@@ -86,13 +85,11 @@ Agent 在 tmux 会话中运行，通过脚本实现完整的终端日志记录�
 agent 启动方式：
 
 \`\`\`bash
-# Codex
 codex --model gpt-5.3-codex \
   -c "model_reasoning_effort=high" \
   --dangerously-bypass-approvals-and-sandbox \
   "Your prompt here"
 
-# Claude Code  
 claude --model claude-opus-4.5 \
   --dangerously-skip-permissions \
   -p "Your prompt here"
@@ -103,10 +100,8 @@ claude --model claude-opus-4.5 \
 tmux 好得多，因为任务中重定向非常强大。Agent 走错方向了？别 kill 它：
 
 \`\`\`bash
-# 错误方式：
 tmux send-keys -t codex-templates "Stop. Focus on the API layer first, not the UI." Enter
 
-# 需要更多上下文：
 tmux send-keys -t codex-templates "The schema is in src/types/template.ts. Use that." Enter
 \`\`\`
 
