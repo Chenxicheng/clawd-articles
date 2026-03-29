@@ -6,9 +6,6 @@ tags: ["AI Agent", "Harness", "Middleware", "X/Twitter"]
 ---
 # Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
 
-# Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
-# Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
-
 Agent harnesses are what help build an agent, they connect an LLM to its environment and let it do things.
 Agent harnesses 是帮助构建 agent 的关键，它们将 LLM 与环境连接起来，让它能够执行各种操作。
 

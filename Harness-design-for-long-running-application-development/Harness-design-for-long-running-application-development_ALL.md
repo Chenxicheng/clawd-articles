@@ -6,9 +6,6 @@ tags: ["Harness", "Anthropic"]
 ---
 # Harness design for long-running application development
 
-# Harness design for long-running application development
-# Harness design for long-running application development
-
 _Written by Prithvi Rajasekaran, a member of our[Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
 _Written by Prithvi Rajasekaran, a member of our [Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
 

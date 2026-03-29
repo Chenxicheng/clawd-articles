@@ -6,9 +6,6 @@ tags: ["OpenClaw", "Codex", "Claude", "AI Agent", "X/Twitter"]
 ---
 # Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
 
-# Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
-# Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
-
 I don't use Codex or Claude Code directly anymore.
 我不再直接使用 Codex 或 Claude Code 了。
 
