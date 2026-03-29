@@ -1,10 +1,11 @@
-Title: Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
+---
+title: "Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X"
+source: "https://x.com/sydneyrunkle/status/2037184580143243751"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Harness", "Middleware", "X/Twitter"]
+---
 
-URL Source: https://x.com/sydneyrunkle/status/2037184580143243751
-
-Published Time: Fri, 27 Mar 2026 15:00:59 GMT
-
-Markdown Content:
+# Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
 
 Agent harnesses are what help build an agent, they connect an LLM to its environment and let it do things.
 
@@ -126,13 +127,14 @@ Want to contribute your own middleware? See guides for that
 
 ## 中文
 
-Title: Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
+---
+title: "Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X"
+source: "https://x.com/sydneyrunkle/status/2037184580143243751"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Harness", "Middleware", "X/Twitter"]
+---
 
-URL Source: https://x.com/sydneyrunkle/status/2037184580143243751
-
-Published Time: Fri, 27 Mar 2026 15:00:59 GMT
-
-Markdown Content:
+# Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
 
 Agent harnesses 是帮助构建 agent 的关键，它们将 LLM 与环境连接起来，让它能够执行各种操作。
 
@@ -216,4 +218,3 @@ Deep Agents 是一个配备完善的 agent harness，完全构建在 create_agen
 自 LangChain v1 发布以来，我们已经看到了这一点。Middleware 让不同团队拥有不同关注点，保持业务逻辑与核心 agent 代码解耦，并使在整个组织中重用逻辑变得容易。完全在其之上构建 Deep Agents 说服了我们这是正确的抽象。
 
 想从一个基础的 agent harness 开始？试试中的 middleware。想在一个更强大的 agent harness 基础上构建？试试中的 middleware。想贡献你自己的 middleware？请参阅相关指南。
-

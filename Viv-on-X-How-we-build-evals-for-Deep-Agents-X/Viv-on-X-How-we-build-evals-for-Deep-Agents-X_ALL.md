@@ -1,8 +1,11 @@
-Title: Viv on X: "How we build evals for Deep Agents" / X
+---
+title: "Viv on X: "How we build evals for Deep Agents" / X"
+source: "https://x.com/vtrivedy10/status/2037203679997018362"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Evals", "Deep Agent", "X/Twitter"]
+---
 
-URL Source: https://x.com/vtrivedy10/status/2037203679997018362
-
-Markdown Content:
+# Viv on X: "How we build evals for Deep Agents" / X
 
 TLDR: The best agent evals directly measure an agent behavior we care about. Here’s how we source data, create metrics, and run well-scoped, targeted experiments over time to make agents more accurate and reliable.
 
@@ -208,17 +211,18 @@ Thanks to the great team who helped review and co-write this blog
 
 is fully open source. Try it and let us know what you think! We’re excited to help teams build great agents & evals.
 
-
-
 ---
 
 ## 中文
 
-Title: Viv on X: "How we build evals for Deep Agents" / X
+---
+title: "Viv on X: "How we build evals for Deep Agents" / X"
+source: "https://x.com/vtrivedy10/status/2037203679997018362"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Evals", "Deep Agent", "X/Twitter"]
+---
 
-URL Source: https://x.com/vtrivedy10/status/2037203679997018362
-
-Markdown Content:
+# Viv on X: "How we build evals for Deep Agents" / X
 
 TLDR：最好的 agent evals 直接衡量我们关心的 agent 行为。以下是我们如何获取数据、创建指标，以及如何通过良好范围的定向实验来随时间推移提高 agents 的准确性和可靠性。
 
@@ -345,4 +349,3 @@ uv run pytest tests/evals --eval-category file_operations --eval-category tool_u
 感谢帮助审查和共同撰写这篇博客的伟大团队。这也发布在 LangChain 博客上。
 
 Deep Agents 是完全开源的。试试并让我们知道你的想法！我们很高兴帮助团队构建出色的 agents 和 evals。
-

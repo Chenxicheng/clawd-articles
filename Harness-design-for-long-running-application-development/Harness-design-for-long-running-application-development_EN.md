@@ -1,8 +1,12 @@
-Title: Harness design for long-running application development
+---
+title: "Harness design for long-running application development"
+source: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
+saved_at: "2026-03-28"
+tags: ["Harness", "Anthropic"]
+---
 
-URL Source: https://www.anthropic.com/engineering/harness-design-long-running-apps
+# Harness design for long-running application development
 
-Markdown Content:
 _Written by Prithvi Rajasekaran, a member of our[Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
 
 Over the past several months I’ve been working on two interconnected problems: getting Claude to produce high-quality frontend designs, and getting it to build complete applications without human intervention. This work originated with earlier efforts on our [frontend design skill](https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) and [long-running coding agent harness](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents), where my colleagues and I were able to improve Claude’s performance well above baseline through prompt engineering and harness design—but both eventually hit ceilings.
@@ -268,4 +272,3 @@ All associated sprites, tilesets, levels, and entity definitions
 ...
 
 ```
-

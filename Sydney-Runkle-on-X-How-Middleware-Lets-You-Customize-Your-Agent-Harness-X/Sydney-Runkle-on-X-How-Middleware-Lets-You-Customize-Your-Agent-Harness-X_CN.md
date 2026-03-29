@@ -1,10 +1,12 @@
-Title: Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
+---
+title: "Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X"
+source: "https://x.com/sydneyrunkle/status/2037184580143243751"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Harness", "Middleware", "X/Twitter"]
+---
 
-URL Source: https://x.com/sydneyrunkle/status/2037184580143243751
+# Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X
 
-Published Time: Fri, 27 Mar 2026 15:00:59 GMT
-
-Markdown Content:
 Agent harnesses 是帮助构建 agent 的关键，它们将 LLM 与环境连接起来，让它能够执行各种操作。
 
 在构建 agent 时，你很可能需要构建一个特定于应用的 agent harness。"Agent Middleware" 让你能够在 LangChain 和 Deep Agent 的坚实基础上进行构建，并针对你的用例进行定制。

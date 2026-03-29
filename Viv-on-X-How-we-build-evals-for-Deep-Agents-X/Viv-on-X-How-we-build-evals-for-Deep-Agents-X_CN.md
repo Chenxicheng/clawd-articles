@@ -1,8 +1,12 @@
-Title: Viv on X: "How we build evals for Deep Agents" / X
+---
+title: "Viv on X: "How we build evals for Deep Agents" / X"
+source: "https://x.com/vtrivedy10/status/2037203679997018362"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Evals", "Deep Agent", "X/Twitter"]
+---
 
-URL Source: https://x.com/vtrivedy10/status/2037203679997018362
+# Viv on X: "How we build evals for Deep Agents" / X
 
-Markdown Content:
 TLDR：最好的 agent evals 直接衡量我们关心的 agent 行为。以下是我们如何获取数据、创建指标，以及如何通过良好范围的定向实验来随时间推移提高 agents 的准确性和可靠性。
 
 我们一直在策划评估来衡量和改进 Deep Agents。Deep Agents 是一个开源的、模型无关的 agent harness，为 AiFiddle 等产品提供支持。Evals 定义和塑造 agent 行为，这就是为什么深思熟虑地设计它们如此重要。

@@ -1,8 +1,11 @@
-Title: Harness design for long-running application development
+---
+title: "Harness design for long-running application development"
+source: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
+saved_at: "2026-03-28"
+tags: ["Harness", "Anthropic"]
+---
 
-URL Source: https://www.anthropic.com/engineering/harness-design-long-running-apps
-
-Markdown Content:
+# Harness design for long-running application development
 
 _Written by Prithvi Rajasekaran, a member of our[Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
 
@@ -270,17 +273,18 @@ All associated sprites, tilesets, levels, and entity definitions
 
 ```
 
-
-
 ---
 
 ## 中文
 
-Title: Harness design for long-running application development
+---
+title: "Harness design for long-running application development"
+source: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
+saved_at: "2026-03-28"
+tags: ["Harness", "Anthropic"]
+---
 
-URL Source: https://www.anthropic.com/engineering/harness-design-long-running-apps
-
-Markdown Content:
+# Harness design for long-running application development
 
 _Written by Prithvi Rajasekaran, a member of our [Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
 
@@ -520,4 +524,3 @@ All associated sprites, tilesets, levels, and entity definitions
 ...
 
 ```
-

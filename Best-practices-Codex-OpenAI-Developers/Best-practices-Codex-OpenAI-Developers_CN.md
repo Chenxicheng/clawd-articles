@@ -1,4 +1,13 @@
 ---
+title: ""
+source: ""
+saved_at: "2026-03-28"
+tags: ["AI", "Article"]
+---
+
+# 
+
+---
 title: "Best practices – Codex | OpenAI Developers"
 source: "https://developers.openai.com/codex/learn/best-practices"
 saved_at: "2026-03-28"

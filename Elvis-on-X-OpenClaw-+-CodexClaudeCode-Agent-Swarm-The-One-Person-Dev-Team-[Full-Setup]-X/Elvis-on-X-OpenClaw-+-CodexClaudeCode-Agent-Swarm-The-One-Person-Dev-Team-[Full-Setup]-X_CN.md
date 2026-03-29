@@ -1,8 +1,11 @@
-Title: Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
+---
+title: "Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X"
+source: "https://x.com/elvissun/status/2025920521871716562"
+saved_at: "2026-03-29"
+tags: ["OpenClaw", "Codex", "Claude", "AI Agent", "X/Twitter"]
+---
 
-URL Source: https://x.com/elvissun/status/2025920521871716562
-
-Markdown Content:
+# Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
 
 我不再直接使用 Codex 或 Claude Code 了。
 

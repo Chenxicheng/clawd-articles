@@ -1,8 +1,12 @@
-Title: Viv on X: "How we build evals for Deep Agents" / X
+---
+title: "Viv on X: "How we build evals for Deep Agents" / X"
+source: "https://x.com/vtrivedy10/status/2037203679997018362"
+saved_at: "2026-03-27"
+tags: ["AI Agent", "Evals", "Deep Agent", "X/Twitter"]
+---
 
-URL Source: https://x.com/vtrivedy10/status/2037203679997018362
+# Viv on X: "How we build evals for Deep Agents" / X
 
-Markdown Content:
 TLDR: The best agent evals directly measure an agent behavior we care about. Here’s how we source data, create metrics, and run well-scoped, targeted experiments over time to make agents more accurate and reliable.
 
 We’ve been curating evaluations to measure and improve
@@ -206,4 +210,3 @@ Thanks to the great team who helped review and co-write this blog
 
 
 is fully open source. Try it and let us know what you think! We’re excited to help teams build great agents & evals.
-

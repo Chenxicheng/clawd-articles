@@ -2,7 +2,7 @@
 title: "Best practices – Codex | OpenAI Developers"
 source: "https://developers.openai.com/codex/learn/best-practices"
 saved_at: "2026-03-28"
-tags: [Codex, OpenAI, Best Practices, AI Coding Agent]
+tags: ["Codex", "OpenAI", "Best Practices", "AI Coding Agent"]
 ---
 
 # Best practices – Codex | OpenAI Developers

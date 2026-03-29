@@ -1,8 +1,12 @@
-Title: Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
+---
+title: "Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X"
+source: "https://x.com/elvissun/status/2025920521871716562"
+saved_at: "2026-03-29"
+tags: ["OpenClaw", "Codex", "Claude", "AI Agent", "X/Twitter"]
+---
 
-URL Source: https://x.com/elvissun/status/2025920521871716562
+# Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X
 
-Markdown Content:
 I don't use Codex or Claude Code directly anymore.
 
 I use OpenClaw as my orchestration layer. My orchestrator, Zoe, spawns the agents, writes their prompts, picks the right model for each task, monitors progress, and pings me on Telegram when PRs are ready to merge.
@@ -480,4 +484,3 @@ What am I building? Agentic PR — a one-person company taking on the enterprise
 
 
 If you want to see how far I take this, follow along.
-
