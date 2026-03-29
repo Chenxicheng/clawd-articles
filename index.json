@@ -6,60 +6,81 @@
       "path": "花叔-on-X-Harness-Engineering又他妈是啥？-X/花叔-on-X-Harness-Engineering又他妈是啥？-X.md",
       "saved_at": "2026-03-27T20:30:33.876934",
       "category": "X/Twitter",
-      "tags": []
+      "tags": [
+        "X/Twitter",
+        "Harness",
+        "AI Agent"
+      ],
+      "lang": "cn"
     },
     {
       "title": "Viv on X: \"How we build evals for Deep Agents\" / X",
       "url": "https://x.com/vtrivedy10/status/2037203679997018362",
-      "path": "Viv-on-X-How-we-build-evals-for-Deep-Agents-X",
+      "path": "Viv-on-X-How-we-build-evals-for-Deep-Agents-X/Viv-on-X-How-we-build-evals-for-Deep-Agents-X_ALL.md",
       "saved_at": "2026-03-27T23:01:47.926953",
       "category": "X/Twitter",
-      "tags": [],
+      "tags": [
+        "X/Twitter",
+        "Evals",
+        "Deep Agent",
+        "AI Agent"
+      ],
       "lang": "en"
     },
     {
       "title": "Sydney Runkle on X: \"How Middleware Lets You Customize Your Agent Harness\" / X",
       "url": "https://x.com/sydneyrunkle/status/2037184580143243751",
-      "path": "Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X",
+      "path": "Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X/Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X_ALL.md",
       "saved_at": "2026-03-27T23:01:18.142220",
       "category": "X/Twitter",
-      "tags": [],
+      "tags": [
+        "X/Twitter",
+        "Middleware",
+        "Harness",
+        "AI Agent"
+      ],
       "lang": "en"
     },
     {
       "title": "Elvis on X: \"OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]\" / X",
       "url": "https://x.com/elvissun/status/2025920521871716562",
-      "path": "Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X",
+      "path": "Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md",
       "saved_at": "2026-03-27T23:56:49.386791",
       "category": "X/Twitter",
-      "tags": [],
-      "lang": "en"
-    },
-    {
-      "title": "<!DOCTYPE html><html lang=\"en\" class=\"anthropicsans_dce02d96-module__tEBbKW__var",
-      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
-      "path": "!DOCTYPE-htmlhtml-lang=en-class=anthropicsans_dce02d96-module__tEBbKW__var",
-      "saved_at": "2026-03-28T10:32:13.442188",
-      "category": "anthropic.com",
-      "tags": [],
+      "tags": [
+        "X/Twitter",
+        "OpenClaw",
+        "Codex",
+        "Claude",
+        "AI Agent"
+      ],
       "lang": "en"
     },
     {
       "title": "Harness design for long-running application development",
-      "url": "https://r.jina.ai/https://www.anthropic.com/engineering/harness-design-long-running-apps",
-      "path": "Harness-design-for-long-running-application-development",
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "path": "Harness-design-for-long-running-application-development/Harness-design-for-long-running-application-development_ALL.md",
       "saved_at": "2026-03-28T10:32:39.591641",
-      "category": "r.jina.ai",
-      "tags": [],
+      "category": "Anthropic",
+      "tags": [
+        "Anthropic",
+        "Harness",
+        "AI Agent"
+      ],
       "lang": "en"
     },
     {
-      "title": "<!DOCTYPE html><html lang=\"en\"> <head><!-- Global Metadata --><meta charset=\"utf",
+      "title": "Best practices – Codex | OpenAI Developers",
       "url": "https://developers.openai.com/codex/learn/best-practices",
-      "path": "!DOCTYPE-htmlhtml-lang=en-head!---Global-Metadata---meta-charset=utf",
+      "path": "Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md",
       "saved_at": "2026-03-28T10:43:23.882568",
-      "category": "developers.openai.com",
-      "tags": [],
+      "category": "OpenAI Developers",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "Best Practices",
+        "AI Coding Agent"
+      ],
       "lang": "en"
     }
   ]
