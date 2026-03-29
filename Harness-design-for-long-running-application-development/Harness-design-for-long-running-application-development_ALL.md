@@ -1,10 +1,13 @@
 ---
-title: "Harness design for long-running application development / 长运行应用程序开发中的 Harness 设计"
+title: "Harness design for long-running application development"
 source: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
 saved_at: "2026-03-28"
 tags: ["Harness", "Anthropic"]
 ---
 # Harness design for long-running application development / 长运行应用程序开发中的 Harness 设计
+
+# Harness design for long-running application development
+# 长运行应用程序开发中的 Harness 设计
 
 _Written by Prithvi Rajasekaran, a member of our[Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
 _Written by Prithvi Rajasekaran, a member of our [Labs](https://www.anthropic.com/news/introducing-anthropic-labs) team._
@@ -131,10 +134,6 @@ The table below shows the harness type, length it ran for, and the total cost.
 | Solo | 20 min | $9 |
 | Full harness | 6 hr | $200 |
 
-| **Harness** | **Duration** | **Cost** |
-| --- | --- | --- |
-| Solo | 20 min | $9 |
-| Full harness | 6 hr | $200 |
 harness 贵了 20 多倍，但输出质量的差异立即显而易见。
 
 The harness was over 20x more expensive, but the difference in output quality was immediately apparent.
@@ -164,32 +163,35 @@ The biggest difference was in play mode. I was actually able to move my entity a
 Reading through the logs, it was clear that the evaluator kept the implementation in line with the spec. Each sprint, it walked through the sprint contract's test criteria and exercised the running application through Playwright, filing bugs against anything that diverged from expected behavior. The contracts were granular—Sprint 3 alone had 27 criteria covering the level editor—and the evaluator's findings were specific enough to act on without extra investigation. The table below shows several examples of issues our evaluator identified:
 | **Contract criterion** | **Evaluator finding** |
 | --- | --- |
-| 矩形填充工具允许点击拖动用所选瓦片填充矩形区域 | **FAIL** — 工具仅在拖动开始/结束点放置瓦片，而不是填充区域。`fillRectangle` 函数存在但未在 mouseUp 上正确触发。 |
-| 用户可以选择并删除已放置的实体生成点 | **FAIL** — `LevelEditor.tsx:892` 处的删除键处理程序要求同时设置 `selection` 和 `selectedEntityId`，但单击实体仅设置 `selectedEntityId`。条件应该是 `selection \|\| (selectedEntityId && activeLayer === 'entity')`。 |
-| 用户可以通过 API 重新排序动画帧 | **FAIL** — `PUT /frames/reorder` 路由定义在 `/{frame_id}` 路由之后。FastAPI 将 'reorder' 匹配为 frame_id 整数并返回 422："无法将字符串解析为整数"。 |
-
-| **Contract criterion** | **Evaluator finding** |
-| --- | --- |
 | Rectangle fill tool allows click-drag to fill a rectangular area with selected tile | **FAIL** — Tool only places tiles at drag start/end points instead of filling the region. `fillRectangle` function exists but isn't triggered properly on mouseUp. |
 | User can select and delete placed entity spawn points | **FAIL** — Delete key handler at `LevelEditor.tsx:892` requires both `selection` and `selectedEntityId`to be set, but clicking an entity only sets `selectedEntityId`. Condition should be `selection || (selectedEntityId && activeLayer === 'entity')`. |
 | User can reorder animation frames via API | **FAIL** — `PUT /frames/reorder` route defined after `/{frame_id}` routes. FastAPI matches 'r`eorder`' as a frame_id integer and returns 422: "unable to parse string as an integer." |
+
 让评估器达到这个水平的性能需要工作。开箱即用，Claude 是一个糟糕的 QA agent。在早期运行中，我看到它识别出合法问题，然后说服自己决定这不是什么大问题并批准工作。它也倾向于表面测试，而不是探测边界情况，所以更微妙的 bug 经常溜走。调优循环是读取评估器的日志，找到其判断与我不同的例子，并更新 QA 的 prompt 来解决这些问题。我花了几轮这种开发循环，评估器的评分方式才达到我认为合理的水平。即便如此，harness 输出显示了模型 QA 能力的极限：小布局问题、某些地方感觉不直观的交互，以及评估器没有彻底 exercise 的更深层嵌套功能中未发现的 bug。显然还有更多的验证空间可以通过进一步调优来获取。但与 solo 运行相比，应用程序的核心功能根本无法 work，这 lift 是显而易见的。
 
 Getting the evaluator to perform at this level took work. Out of the box, Claude is a poor QA agent. In early runs, I watched it identify legitimate issues, then talk itself into deciding they weren't a big deal and approve the work anyway. It also tended to test superficially, rather than probing edge cases, so more subtle bugs often slipped through. The tuning loop was to read the evaluator's logs, find examples where its judgment diverged from mine, and update the QAs prompt to solve for those issues. It took several rounds of this development loop before the evaluator was grading in a way that I found reasonable. Even then, the harness output showed the limits of the model’s QAing capabilities: small layout issues, interactions that felt unintuitive in places, and undiscovered bugs in more deeply nested features that the evaluator hadn't exercised thoroughly. There was clearly more verification headroom to capture with further tuning. But compared to the solo run, where the central feature of the application simply didn't work, the lift was obvious.
-
 ![](23c98f1d7ae720bfb39190d50e0706c03b177ad8-1999x1320.png)
 
+![](23c98f1d7ae720bfb39190d50e0706c03b177ad8-1999x1320.png)
 ![](24472c85629a6c82a092f25def4a659042be1f7c-1999x1010.png)
 
+![](24472c85629a6c82a092f25def4a659042be1f7c-1999x1010.png)
 ![](79217dbfce3f31172eb7fd4deee5449023c9b2ac-1999x757.png)
 
+![](79217dbfce3f31172eb7fd4deee5449023c9b2ac-1999x757.png)
 ![](a8bef95425966495629095a5cb38bde4a8b13558-1999x997.png)
 
+![](a8bef95425966495629095a5cb38bde4a8b13558-1999x997.png)
 ![](c05aa3ef8daaf0ef3d0dba66d6480ab753e9cbaa-1999x1007.png)
 
+![](c05aa3ef8daaf0ef3d0dba66d6480ab753e9cbaa-1999x1007.png)
 ![](287b35f4683ecb77ac6a8d66bf2b3ed5956d1db9-1999x1008.png)
 
+![](287b35f4683ecb77ac6a8d66bf2b3ed5956d1db9-1999x1008.png)
 ![](8596eab2b4a06124df41ad6b2f7ff4ff9d9f105f-1999x1000.png)
+
+![](8596eab2b4a06124df41ad6b2f7ff4ff9d9f105f-1999x1000.png)
+![](f2953550e51957a0a49a3792a0df3bcfed0fde48-1994x1654.png)
 
 ![](f2953550e51957a0a49a3792a0df3bcfed0fde48-1994x1654.png)
 ### 迭代 harness
@@ -247,6 +249,7 @@ Most of the time went to the builder, which ran coherently for over two hours wi
 | Build (Round 3) | 10.9 min | $5.88 |
 | QA (Round 3) | 9.6 min | $4.06 |
 | **Total V2 Harness** | **3 hr 50 min** | **$124.70** |
+
 
 **Agent & Phase****Duration****Cost**
 Planner 4.7 min$0.46
