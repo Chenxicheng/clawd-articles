@@ -1,10 +1,11 @@
 # 文章索引
 
-共 7 篇，更新于 2026-03-29 22:26
+共 8 篇，更新于 2026-03-29 23:25
 
 
-## AI Agent (5)
+## AI Agent (6)
 
+- [sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X / sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X](sysls-on-X-How-To-Solve-Problems-Of-Long-Running,-Autonomous-Agentic-Engineering-Workflows-X/sysls-on-X-How-To-Solve-Problems-Of-Long-Running,-Autonomous-Agentic-Engineering-Workflows-X_ALL.md) #X/Twitter  _2026-03-29_
 - [Harness design for long-running application development](Harness-design-for-long-running-application-development/Harness-design-for-long-running-application-development_ALL.md) #Anthropic #Harness  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Codex #Claude  _2026-03-27_
 - [Viv on X: "How we build evals for Deep Agents" / X](Viv-on-X-How-we-build-evals-for-Deep-Agents-X/Viv-on-X-How-we-build-evals-for-Deep-Agents-X_ALL.md) #X/Twitter #Evals #Deep Agent  _2026-03-27_
@@ -59,8 +60,9 @@
 
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Codex #AI Coding Agent  _2026-03-28_
 
-## X/Twitter (5)
+## X/Twitter (6)
 
+- [sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X / sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X](sysls-on-X-How-To-Solve-Problems-Of-Long-Running,-Autonomous-Agentic-Engineering-Workflows-X/sysls-on-X-How-To-Solve-Problems-Of-Long-Running,-Autonomous-Agentic-Engineering-Workflows-X_ALL.md) #AI Agent  _2026-03-29_
 - [小八 on X: "从零开始两天构建一个 Claude Code：带你拆解 AI CLI 的每一层" / X](小八-on-X-从零开始两天构建一个-Claude-Code：带你拆解-AI-CLI-的每一层-X/小八-on-X-从零开始两天构建一个-Claude-Code：带你拆解-AI-CLI-的每一层-X.md) #Claude  _2026-03-29_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #OpenClaw #Codex #Claude #AI Agent  _2026-03-27_
 - [Viv on X: "How we build evals for Deep Agents" / X](Viv-on-X-How-we-build-evals-for-Deep-Agents-X/Viv-on-X-How-we-build-evals-for-Deep-Agents-X_ALL.md) #Evals #Deep Agent #AI Agent  _2026-03-27_
