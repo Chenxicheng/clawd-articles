@@ -1,7 +1,7 @@
 ---
 title: "sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X"
-source: "https://x.com/systematicls/status/2038241033755168959"
-saved_at: "2026-03-29"
+source: "https://x.com/systematicls/status/2038241033755168959?s=52&t=jjVOMAzDZNfuD4kcqctqJw"
+saved_at: "2026-03-30"
 tags: ["AI Agent", "X/Twitter"]
 ---
 
@@ -9,14 +9,14 @@ tags: ["AI Agent", "X/Twitter"]
 
 Title: sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X
 
-URL Source: https://x.com/systematicls/status/2038241033755168959
-
-Published Time: Sun, 29 Mar 2026 14:52:22 GMT
+URL Source: https://x.com/systematicls/status/2038241033755168959?s=52&t=jjVOMAzDZNfuD4kcqctqJw
 
 Markdown Content:
 If you want to design a harness for really long-running autonomous systems, you should understand the following deeply.
 
 At its core, all harness design is to overcome the problems of agents either becoming lazy and cutting corners or being confused and stupid.
+
+, but a well written harness can go a long way.
 
 Not gaining sufficient context before starting a task and therefore acting on wrong or missing information before it has begun. To overcome this, you need to systematically check for incomplete and/or contradictory information before starting on the task — because this will propagate once it starts.
 
