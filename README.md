@@ -1,6 +1,6 @@
 # 文章索引
 
-共 16 篇，更新于 2026-03-31 14:40
+共 17 篇，更新于 2026-04-01 06:57
 
 
 ## AI Agent (9)
@@ -29,8 +29,9 @@
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (6)
+## Claude (7)
 
+- [AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实](AI-工程的真实代价：从-Claude-Code-泄露源码看新模型接入的工程现实/AI-工程的真实代价：从-Claude-Code-泄露源码看新模型接入的工程现实.md)  _2026-04-01_
 - [Shann³ on X: "How to give Claude Code Superpowers" / X](Shann³-on-X-How-to-give-Claude-Code-Superpowers-X/Shann³-on-X-How-to-give-Claude-Code-Superpowers-X_EN.md) #X/Twitter  _2026-03-31_
 - [Berryxia.AI on X: "为什么程序员钟爱Codex，Vibe Coding的人却离不开Claude？一文弄懂它！" / X](Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X/Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X.md) #Codex #X/Twitter  _2026-03-30_
 - [Akshay 🚀 on X: "Anatomy of the .claude/ folder" / X / Akshay 🚀 on X: "Anatomy of the .claude/ folder" / X](Akshay-🚀-on-X-Anatomy-of-the-.claude-folder-X/Akshay-🚀-on-X-Anatomy-of-the-.claude-folder-X_ALL.md) #X/Twitter  _2026-03-30_

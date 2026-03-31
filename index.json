@@ -204,6 +204,17 @@
         "X/Twitter"
       ],
       "lang": "en"
+    },
+    {
+      "title": "AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实",
+      "url": "https://yage.ai/share/claude-code-engineering-cost-20260331.html",
+      "path": "AI-工程的真实代价：从-Claude-Code-泄露源码看新模型接入的工程现实/AI-工程的真实代价：从-Claude-Code-泄露源码看新模型接入的工程现实.md",
+      "saved_at": "2026-04-01T06:57:02.005209",
+      "category": "yage.ai",
+      "tags": [
+        "Claude"
+      ],
+      "lang": "cn"
     }
   ]
 }
