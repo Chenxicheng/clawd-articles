@@ -1,6 +1,6 @@
 # 文章索引
 
-共 15 篇，更新于 2026-03-30 17:15
+共 16 篇，更新于 2026-03-31 14:40
 
 
 ## AI Agent (9)
@@ -29,8 +29,9 @@
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (5)
+## Claude (6)
 
+- [Shann³ on X: "How to give Claude Code Superpowers" / X](Shann³-on-X-How-to-give-Claude-Code-Superpowers-X/Shann³-on-X-How-to-give-Claude-Code-Superpowers-X_EN.md) #X/Twitter  _2026-03-31_
 - [Berryxia.AI on X: "为什么程序员钟爱Codex，Vibe Coding的人却离不开Claude？一文弄懂它！" / X](Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X/Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X.md) #Codex #X/Twitter  _2026-03-30_
 - [Akshay 🚀 on X: "Anatomy of the .claude/ folder" / X / Akshay 🚀 on X: "Anatomy of the .claude/ folder" / X](Akshay-🚀-on-X-Anatomy-of-the-.claude-folder-X/Akshay-🚀-on-X-Anatomy-of-the-.claude-folder-X_ALL.md) #X/Twitter  _2026-03-30_
 - [Claude Certified Architect](claude-certified-architect/claude-certified-architect_ALL.md) #GitHub  _2026-03-30_
@@ -73,8 +74,9 @@
 
 - [Claude Certified Architect](claude-certified-architect/claude-certified-architect_ALL.md) #Claude  _2026-03-30_
 
-## X/Twitter (12)
+## X/Twitter (13)
 
+- [Shann³ on X: "How to give Claude Code Superpowers" / X](Shann³-on-X-How-to-give-Claude-Code-Superpowers-X/Shann³-on-X-How-to-give-Claude-Code-Superpowers-X_EN.md) #Claude  _2026-03-31_
 - [Berryxia.AI on X: "为什么程序员钟爱Codex，Vibe Coding的人却离不开Claude？一文弄懂它！" / X](Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X/Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X.md) #Codex #Claude  _2026-03-30_
 - [Axel Bitblaze 🪓 on X: "𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗜 𝗟𝗲𝗮𝗿𝗻𝗲𝗱 𝗨𝘀𝗶𝗻𝗴 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗳𝗼𝗿 2 𝗠𝗼𝗻𝘁𝗵𝘀" / X / Axel Bitblaze 🪓 on X: "𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗜 𝗟𝗲𝗮𝗿𝗻𝗲𝗱 𝗨𝘀𝗶𝗻𝗴 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝗳𝗼𝗿 2 𝗠𝗼𝗻𝘁𝗵𝘀" / X](Axel-Bitblaze-🪓-on-X-𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴-𝗜-𝗟𝗲𝗮𝗿𝗻𝗲𝗱-𝗨𝘀𝗶𝗻𝗴-𝗖𝗹𝗮𝘂𝗱𝗲-𝗖𝗼𝗱𝗲-𝗳𝗼𝗿-2-𝗠𝗼𝗻𝘁𝗵𝘀-X/Axel-Bitblaze-🪓-on-X-𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴-𝗜-𝗟𝗲𝗮𝗿𝗻𝗲𝗱-𝗨𝘀𝗶𝗻𝗴-𝗖𝗹𝗮𝘂𝗱𝗲-𝗖𝗼𝗱𝗲-𝗳𝗼𝗿-2-𝗠𝗼𝗻𝘁𝗵𝘀-X_ALL.md)  _2026-03-30_
 - [Akshay 🚀 on X: "Anatomy of the .claude/ folder" / X / Akshay 🚀 on X: "Anatomy of the .claude/ folder" / X](Akshay-🚀-on-X-Anatomy-of-the-.claude-folder-X/Akshay-🚀-on-X-Anatomy-of-the-.claude-folder-X_ALL.md) #Claude  _2026-03-30_
