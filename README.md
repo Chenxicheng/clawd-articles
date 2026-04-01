@@ -1,6 +1,6 @@
 # 文章索引
 
-共 20 篇，更新于 2026-04-01 13:29
+共 21 篇，更新于 2026-04-01 14:06
 
 
 ## AI Agent (11)
@@ -31,8 +31,9 @@
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (10)
+## Claude (11)
 
+- [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Anthropic #Memory #X/Twitter  _2026-04-01_
 - [Yuker on X: "一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？" / X](Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X/Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X.md) #Anthropic #X/Twitter  _2026-04-01_
 - [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #AI Agent #X/Twitter  _2026-04-01_
 - [Max For AI on X: "从Claude Code刚泄漏的源码，看当前第一梯队 AI Agent 的工程架构" / X](Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X/Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X.md) #AI Agent #X/Twitter  _2026-04-01_
@@ -60,8 +61,9 @@
 
 - [Viv on X: "How we build evals for Deep Agents" / X](Viv-on-X-How-we-build-evals-for-Deep-Agents-X/Viv-on-X-How-we-build-evals-for-Deep-Agents-X_ALL.md) #X/Twitter #Evals #AI Agent  _2026-03-27_
 
-## Anthropic (2)
+## Anthropic (3)
 
+- [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Memory #X/Twitter  _2026-04-01_
 - [Yuker on X: "一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？" / X](Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X/Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X.md) #Claude #X/Twitter  _2026-04-01_
 - [Harness design for long-running application development](Harness-design-for-long-running-application-development/Harness-design-for-long-running-application-development_ALL.md) #Harness #AI Agent  _2026-03-28_
 
@@ -81,8 +83,13 @@
 
 - [Claude Certified Architect](claude-certified-architect/claude-certified-architect_ALL.md) #Claude  _2026-03-30_
 
-## X/Twitter (16)
+## Memory (1)
 
+- [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #X/Twitter  _2026-04-01_
+
+## X/Twitter (17)
+
+- [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #Memory  _2026-04-01_
 - [Yuker on X: "一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？" / X](Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X/Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X.md) #Claude #Anthropic  _2026-04-01_
 - [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #Claude #AI Agent  _2026-04-01_
 - [Max For AI on X: "从Claude Code刚泄漏的源码，看当前第一梯队 AI Agent 的工程架构" / X](Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X/Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X.md) #Claude #AI Agent  _2026-04-01_
