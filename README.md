@@ -1,10 +1,11 @@
 # 文章索引
 
-共 18 篇，更新于 2026-04-01 09:34
+共 19 篇，更新于 2026-04-01 13:25
 
 
-## AI Agent (10)
+## AI Agent (11)
 
+- [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #Claude #X/Twitter  _2026-04-01_
 - [Max For AI on X: "从Claude Code刚泄漏的源码，看当前第一梯队 AI Agent 的工程架构" / X](Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X/Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X.md) #Claude #X/Twitter  _2026-04-01_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #Harness #X/Twitter  _2026-03-30_
 - [sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X / sysls on X: "How To Solve Problems Of Long Running, Autonomous Agentic Engineering Workflows" / X](sysls-on-X-How-To-Solve-Problems-Of-Long-Running,-Autonomous-Agentic-Engineering-Workflows-X/sysls-on-X-How-To-Solve-Problems-Of-Long-Running,-Autonomous-Agentic-Engineering-Workflows-X_ALL.md) #X/Twitter  _2026-03-30_
@@ -30,8 +31,9 @@
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (8)
+## Claude (9)
 
+- [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #AI Agent #X/Twitter  _2026-04-01_
 - [Max For AI on X: "从Claude Code刚泄漏的源码，看当前第一梯队 AI Agent 的工程架构" / X](Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X/Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X.md) #AI Agent #X/Twitter  _2026-04-01_
 - [AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实](AI-工程的真实代价：从-Claude-Code-泄露源码看新模型接入的工程现实/AI-工程的真实代价：从-Claude-Code-泄露源码看新模型接入的工程现实.md)  _2026-04-01_
 - [Shann³ on X: "How to give Claude Code Superpowers" / X](Shann³-on-X-How-to-give-Claude-Code-Superpowers-X/Shann³-on-X-How-to-give-Claude-Code-Superpowers-X_EN.md) #X/Twitter  _2026-03-31_
@@ -77,8 +79,9 @@
 
 - [Claude Certified Architect](claude-certified-architect/claude-certified-architect_ALL.md) #Claude  _2026-03-30_
 
-## X/Twitter (14)
+## X/Twitter (15)
 
+- [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #Claude #AI Agent  _2026-04-01_
 - [Max For AI on X: "从Claude Code刚泄漏的源码，看当前第一梯队 AI Agent 的工程架构" / X](Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X/Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X.md) #Claude #AI Agent  _2026-04-01_
 - [Shann³ on X: "How to give Claude Code Superpowers" / X](Shann³-on-X-How-to-give-Claude-Code-Superpowers-X/Shann³-on-X-How-to-give-Claude-Code-Superpowers-X_EN.md) #Claude  _2026-03-31_
 - [Berryxia.AI on X: "为什么程序员钟爱Codex，Vibe Coding的人却离不开Claude？一文弄懂它！" / X](Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X/Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X.md) #Codex #Claude  _2026-03-30_
