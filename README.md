@@ -1,6 +1,6 @@
 # 文章索引
 
-共 21 篇，更新于 2026-04-01 14:06
+共 22 篇，更新于 2026-04-03 22:53
 
 
 ## AI Agent (11)
@@ -87,8 +87,9 @@
 
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #X/Twitter  _2026-04-01_
 
-## X/Twitter (17)
+## X/Twitter (18)
 
+- [阿蔺A-Lin on X: "Karpathy 开源了一个方法，2 天跑了 700 次实验" / X](阿蔺A-Lin-on-X-Karpathy-开源了一个方法，2-天跑了-700-次实验-X/阿蔺A-Lin-on-X-Karpathy-开源了一个方法，2-天跑了-700-次实验-X.md)  _2026-04-03_
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #Memory  _2026-04-01_
 - [Yuker on X: "一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？" / X](Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X/Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X.md) #Claude #Anthropic  _2026-04-01_
 - [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #Claude #AI Agent  _2026-04-01_
