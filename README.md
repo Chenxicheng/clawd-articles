@@ -1,6 +1,6 @@
 # 文章索引
 
-共 23 篇，更新于 2026-04-03 22:55
+共 26 篇，更新于 2026-04-06 10:59
 
 
 ## AI Agent (11)
@@ -17,8 +17,9 @@
 - [Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X](Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X/Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X_ALL.md) #X/Twitter #Middleware #Harness  _2026-03-27_
 - [花叔 on X: "Harness Engineering又他妈是啥？" / X](花叔-on-X-Harness-Engineering又他妈是啥？-X/花叔-on-X-Harness-Engineering又他妈是啥？-X.md) #X/Twitter #Harness  _2026-03-27_
 
-## Harness (5)
+## Harness (6)
 
+- [Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架](Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架/Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架.md)  _2026-04-06_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #AI Agent #X/Twitter  _2026-03-30_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #AI Agent #X/Twitter  _2026-03-29_
 - [Harness design for long-running application development](Harness-design-for-long-running-application-development/Harness-design-for-long-running-application-development_ALL.md) #Anthropic #AI Agent  _2026-03-28_
@@ -88,8 +89,10 @@
 
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #X/Twitter  _2026-04-01_
 
-## X/Twitter (19)
+## X/Twitter (21)
 
+- [老张来了 on X: "Karpathy 最新分享：用 LLM 搭建个人知识库，告别 RAG 的低效循环" / X](老张来了-on-X-Karpathy-最新分享：用-LLM-搭建个人知识库，告别-RAG-的低效循环-X/老张来了-on-X-Karpathy-最新分享：用-LLM-搭建个人知识库，告别-RAG-的低效循环-X.md)  _2026-04-06_
+- [Yanhua on X: "用 LLM + Obsidian 构建个人知识库：基于 Karpathy 的“LLM Knowledge Bases”工作流" / X](Yanhua-on-X-用-LLM-+-Obsidian-构建个人知识库：基于-Karpathy-的“LLM-Knowledge-Bases”工作流-X/Yanhua-on-X-用-LLM-+-Obsidian-构建个人知识库：基于-Karpathy-的“LLM-Knowledge-Bases”工作流-X.md)  _2026-04-06_
 - [AlexZ 🦀 on X: "驾驭工程：从 Claude Code 源码到 AI 编码最佳实践" / X](AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X/AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X.md) #Claude  _2026-04-03_
 - [阿蔺A-Lin on X: "Karpathy 开源了一个方法，2 天跑了 700 次实验" / X](阿蔺A-Lin-on-X-Karpathy-开源了一个方法，2-天跑了-700-次实验-X/阿蔺A-Lin-on-X-Karpathy-开源了一个方法，2-天跑了-700-次实验-X.md)  _2026-04-03_
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #Memory  _2026-04-01_

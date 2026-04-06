@@ -291,6 +291,39 @@
         "X/Twitter"
       ],
       "lang": "cn"
+    },
+    {
+      "title": "Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架",
+      "url": "https://yage.ai/share/harness-engineering-scalability-20260330.html",
+      "path": "Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架/Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架.md",
+      "saved_at": "2026-04-06T10:57:41.865800",
+      "category": "yage.ai",
+      "tags": [
+        "Harness"
+      ],
+      "lang": "cn"
+    },
+    {
+      "title": "Yanhua on X: \"用 LLM + Obsidian 构建个人知识库：基于 Karpathy 的“LLM Knowledge Bases”工作流\" / X",
+      "url": "https://x.com/yanhua1010/status/2039966047378583815?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "Yanhua-on-X-用-LLM-+-Obsidian-构建个人知识库：基于-Karpathy-的“LLM-Knowledge-Bases”工作流-X/Yanhua-on-X-用-LLM-+-Obsidian-构建个人知识库：基于-Karpathy-的“LLM-Knowledge-Bases”工作流-X.md",
+      "saved_at": "2026-04-06T10:59:03.124074",
+      "category": "X/Twitter",
+      "tags": [
+        "X/Twitter"
+      ],
+      "lang": "cn"
+    },
+    {
+      "title": "老张来了 on X: \"Karpathy 最新分享：用 LLM 搭建个人知识库，告别 RAG 的低效循环\" / X",
+      "url": "https://x.com/laozhang2579/status/2040732229035585615?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "老张来了-on-X-Karpathy-最新分享：用-LLM-搭建个人知识库，告别-RAG-的低效循环-X/老张来了-on-X-Karpathy-最新分享：用-LLM-搭建个人知识库，告别-RAG-的低效循环-X.md",
+      "saved_at": "2026-04-06T10:59:43.017296",
+      "category": "X/Twitter",
+      "tags": [
+        "X/Twitter"
+      ],
+      "lang": "cn"
     }
   ]
 }
