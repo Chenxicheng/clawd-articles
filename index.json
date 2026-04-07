@@ -324,6 +324,68 @@
         "X/Twitter"
       ],
       "lang": "cn"
+    },
+    {
+      "title": "实践哥MinLi on X: \"搞懂缓存机制，从Gemma4到Claude Code省80%Token\" / X",
+      "url": "https://x.com/minlibuilds/status/2041178722230030384?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X/实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X.md",
+      "saved_at": "2026-04-07T08:20:28.576076",
+      "category": "X/Twitter",
+      "tags": [
+        "Claude",
+        "X/Twitter"
+      ],
+      "lang": "cn"
+    },
+    {
+      "title": "宝玉 on X: \"访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点\" / X",
+      "url": "https://x.com/dotey/status/2041056119183851930?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "宝玉-on-X-访谈｜Codex-团队如何用自己的产品构建产品——整个-Spec-只有-10-个要点-X/宝玉-on-X-访谈｜Codex-团队如何用自己的产品构建产品——整个-Spec-只有-10-个要点-X.md",
+      "saved_at": "2026-04-07T09:42:21.611814",
+      "category": "X/Twitter",
+      "tags": [
+        "Codex",
+        "X/Twitter"
+      ],
+      "lang": "cn"
+    },
+    {
+      "title": "Akshay 🚀 on X: \"The Anatomy of an Agent Harness \" / X",
+      "url": "https://x.com/akshay_pachaar/status/2041146899319971922?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md",
+      "saved_at": "2026-04-07T10:47:08.698890",
+      "category": "X/Twitter",
+      "tags": [
+        "AI Agent",
+        "Harness",
+        "X/Twitter"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Daniel San on X: \"Skills can use subagents, Subagents can use skills\" / X",
+      "url": "https://x.com/dani_avila7/status/2041185537172607014?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md",
+      "saved_at": "2026-04-07T10:47:29.867781",
+      "category": "X/Twitter",
+      "tags": [
+        "AI Agent",
+        "Skill",
+        "X/Twitter"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Tw93 on X: \"你不知道的 Agent：原理、架构与工程实践\" / X",
+      "url": "https://x.com/hitw93/status/2034627967926825175?s=52&t=jjVOMAzDZNfuD4kcqctqJw",
+      "path": "Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X/Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X.md",
+      "saved_at": "2026-04-07T20:00:01.602778",
+      "category": "X/Twitter",
+      "tags": [
+        "AI Agent",
+        "X/Twitter"
+      ],
+      "lang": "cn"
     }
   ]
 }

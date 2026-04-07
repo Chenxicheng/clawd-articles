@@ -1,10 +1,13 @@
 # 文章索引
 
-共 26 篇，更新于 2026-04-06 10:59
+共 31 篇，更新于 2026-04-07 20:00
 
 
-## AI Agent (11)
+## AI Agent (14)
 
+- [Tw93 on X: "你不知道的 Agent：原理、架构与工程实践" / X](Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X/Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X.md) #X/Twitter  _2026-04-07_
+- [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #Skill #X/Twitter  _2026-04-07_
+- [Akshay 🚀 on X: "The Anatomy of an Agent Harness " / X](Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md) #Harness #X/Twitter  _2026-04-07_
 - [huangserva on X: "Claude Code CLI 源码分析 : 从 Prompt 架构到工业级 AI Agent缓存黑科技+自我进化+多Agent协作+遥测监控" / X](huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X/huangserva-on-X-Claude-Code-CLI-源码分析-从-Prompt-架构到工业级-AI-Agent缓存黑科技+自我进化+多Agent协作+遥测监控-X.md) #Claude #X/Twitter  _2026-04-01_
 - [Max For AI on X: "从Claude Code刚泄漏的源码，看当前第一梯队 AI Agent 的工程架构" / X](Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X/Max-For-AI-on-X-从Claude-Code刚泄漏的源码，看当前第一梯队-AI-Agent-的工程架构-X.md) #Claude #X/Twitter  _2026-04-01_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #Harness #X/Twitter  _2026-03-30_
@@ -17,8 +20,9 @@
 - [Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X](Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X/Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X_ALL.md) #X/Twitter #Middleware #Harness  _2026-03-27_
 - [花叔 on X: "Harness Engineering又他妈是啥？" / X](花叔-on-X-Harness-Engineering又他妈是啥？-X/花叔-on-X-Harness-Engineering又他妈是啥？-X.md) #X/Twitter #Harness  _2026-03-27_
 
-## Harness (6)
+## Harness (7)
 
+- [Akshay 🚀 on X: "The Anatomy of an Agent Harness " / X](Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 - [Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架](Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架/Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架.md)  _2026-04-06_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #AI Agent #X/Twitter  _2026-03-30_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #AI Agent #X/Twitter  _2026-03-29_
@@ -26,14 +30,16 @@
 - [Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X](Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X/Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X_ALL.md) #X/Twitter #Middleware #AI Agent  _2026-03-27_
 - [花叔 on X: "Harness Engineering又他妈是啥？" / X](花叔-on-X-Harness-Engineering又他妈是啥？-X/花叔-on-X-Harness-Engineering又他妈是啥？-X.md) #X/Twitter #AI Agent  _2026-03-27_
 
-## Codex (3)
+## Codex (4)
 
+- [宝玉 on X: "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点" / X](宝玉-on-X-访谈｜Codex-团队如何用自己的产品构建产品——整个-Spec-只有-10-个要点-X/宝玉-on-X-访谈｜Codex-团队如何用自己的产品构建产品——整个-Spec-只有-10-个要点-X.md) #X/Twitter  _2026-04-07_
 - [Berryxia.AI on X: "为什么程序员钟爱Codex，Vibe Coding的人却离不开Claude？一文弄懂它！" / X](Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X/Berryxia.AI-on-X-为什么程序员钟爱Codex，Vibe-Coding的人却离不开Claude？一文弄懂它！-X.md) #Claude #X/Twitter  _2026-03-30_
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (12)
+## Claude (13)
 
+- [实践哥MinLi on X: "搞懂缓存机制，从Gemma4到Claude Code省80%Token" / X](实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X/实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X.md) #X/Twitter  _2026-04-07_
 - [AlexZ 🦀 on X: "驾驭工程：从 Claude Code 源码到 AI 编码最佳实践" / X](AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X/AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X.md) #X/Twitter  _2026-04-03_
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Anthropic #Memory #X/Twitter  _2026-04-01_
 - [Yuker on X: "一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？" / X](Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X/Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X.md) #Anthropic #X/Twitter  _2026-04-01_
@@ -89,8 +95,17 @@
 
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #X/Twitter  _2026-04-01_
 
-## X/Twitter (21)
+## Skill (1)
 
+- [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
+
+## X/Twitter (26)
+
+- [Tw93 on X: "你不知道的 Agent：原理、架构与工程实践" / X](Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X/Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X.md) #AI Agent  _2026-04-07_
+- [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #Skill  _2026-04-07_
+- [Akshay 🚀 on X: "The Anatomy of an Agent Harness " / X](Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md) #AI Agent #Harness  _2026-04-07_
+- [宝玉 on X: "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点" / X](宝玉-on-X-访谈｜Codex-团队如何用自己的产品构建产品——整个-Spec-只有-10-个要点-X/宝玉-on-X-访谈｜Codex-团队如何用自己的产品构建产品——整个-Spec-只有-10-个要点-X.md) #Codex  _2026-04-07_
+- [实践哥MinLi on X: "搞懂缓存机制，从Gemma4到Claude Code省80%Token" / X](实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X/实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X.md) #Claude  _2026-04-07_
 - [老张来了 on X: "Karpathy 最新分享：用 LLM 搭建个人知识库，告别 RAG 的低效循环" / X](老张来了-on-X-Karpathy-最新分享：用-LLM-搭建个人知识库，告别-RAG-的低效循环-X/老张来了-on-X-Karpathy-最新分享：用-LLM-搭建个人知识库，告别-RAG-的低效循环-X.md)  _2026-04-06_
 - [Yanhua on X: "用 LLM + Obsidian 构建个人知识库：基于 Karpathy 的“LLM Knowledge Bases”工作流" / X](Yanhua-on-X-用-LLM-+-Obsidian-构建个人知识库：基于-Karpathy-的“LLM-Knowledge-Bases”工作流-X/Yanhua-on-X-用-LLM-+-Obsidian-构建个人知识库：基于-Karpathy-的“LLM-Knowledge-Bases”工作流-X.md)  _2026-04-06_
 - [AlexZ 🦀 on X: "驾驭工程：从 Claude Code 源码到 AI 编码最佳实践" / X](AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X/AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X.md) #Claude  _2026-04-03_
