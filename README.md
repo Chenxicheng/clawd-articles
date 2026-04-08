@@ -1,6 +1,6 @@
 # 文章索引
 
-共 31 篇，更新于 2026-04-07 20:00
+共 33 篇，更新于 2026-04-08 14:59
 
 
 ## AI Agent (14)
@@ -37,8 +37,9 @@
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (13)
+## Claude (14)
 
+- [铁锤人 on X: "10大我希望早点知道的Claude code使用技巧" / X](铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X/铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X.md) #X/Twitter  _2026-04-08_
 - [实践哥MinLi on X: "搞懂缓存机制，从Gemma4到Claude Code省80%Token" / X](实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X/实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X.md) #X/Twitter  _2026-04-07_
 - [AlexZ 🦀 on X: "驾驭工程：从 Claude Code 源码到 AI 编码最佳实践" / X](AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X/AlexZ-🦀-on-X-驾驭工程：从-Claude-Code-源码到-AI-编码最佳实践-X.md) #X/Twitter  _2026-04-03_
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Anthropic #Memory #X/Twitter  _2026-04-01_
@@ -99,8 +100,10 @@
 
 - [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 
-## X/Twitter (26)
+## X/Twitter (28)
 
+- [雪踏乌云 on X: "Hermes 从 0 到 1 教程" / X](雪踏乌云-on-X-Hermes-从-0-到-1-教程-X/雪踏乌云-on-X-Hermes-从-0-到-1-教程-X_EN.md)  _2026-04-08_
+- [铁锤人 on X: "10大我希望早点知道的Claude code使用技巧" / X](铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X/铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X.md) #Claude  _2026-04-08_
 - [Tw93 on X: "你不知道的 Agent：原理、架构与工程实践" / X](Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X/Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X.md) #AI Agent  _2026-04-07_
 - [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #Skill  _2026-04-07_
 - [Akshay 🚀 on X: "The Anatomy of an Agent Harness " / X](Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md) #AI Agent #Harness  _2026-04-07_
