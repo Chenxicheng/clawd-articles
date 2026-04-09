@@ -1,7 +1,7 @@
 ---
 title: "雪踏乌云 on X: "Hermes 从 0 到 1 教程" / X"
 source: "https://x.com/pluvio9yte/status/2041571378021986486"
-saved_at: "2026-04-08"
+saved_at: "2026-04-09"
 tags: ["X/Twitter"]
 ---
 
@@ -27,23 +27,23 @@ People on X are the first to know.
 
 See new posts
 
-[![Image 1](./img_2c0f63a8.jpg)](https://x.com/Pluvio9yte)
+[![Image 1](./img_057e8f59.jpg)](https://x.com/Pluvio9yte)
 
 [雪踏乌云](https://x.com/Pluvio9yte)
 
 [@Pluvio9yte](https://x.com/Pluvio9yte)
 
-[![Image 2: Image](./img_287962fb.jpg)](https://x.com/Pluvio9yte/article/2041571378021986486/media/2041571315208089604)
+[![Image 2: Image](./img_2c67910e.jpg)](https://x.com/Pluvio9yte/article/2041571378021986486/media/2041571315208089604)
 
 Hermes 从 0 到 1 教程
 
-7
+13
 
-89
+171
 
-425
+691
 
-[62K](https://x.com/Pluvio9yte/status/2041571378021986486/analytics)
+[101K](https://x.com/Pluvio9yte/status/2041571378021986486/analytics)
 
 Hermes Agent 是 Nous Research 开源的自改进 AI Agent 框架
 
@@ -93,17 +93,17 @@ Want to publish your own Article?
 
 ·
 
-[62.7K Views](https://x.com/Pluvio9yte/status/2041571378021986486/analytics)
+[101.7K Views](https://x.com/Pluvio9yte/status/2041571378021986486/analytics)
 
-7
+13
 
-89
+171
 
-425
+691
 
-850
+1.2K
 
-Read 7 replies
+Read 13 replies
 
 ## New to X?
 
@@ -117,23 +117,21 @@ By signing up, you agree to the [Terms of Service](https://x.com/tos) and [Priva
 
 ## What’s happening
 
-Politics · Trending
+Sports · Trending
 
-TACO Trump
+Jalen Johnson
 
-Politics · Trending
+Sports · Trending
 
-United States and Iran
+The List
 
-Trending in United States
+Only on X · Trending
 
-Mashed
+#Survivor50
 
 Entertainment · Trending
 
-#DaredevilBornAgain![Image 3](./img_2d88f5ce.png)
-
-Trending with [Bullseye](https://x.com/search?q=Bullseye&src=trend_click&vertical=trends), [Wilson Bethel](https://x.com/search?q=Wilson%20Bethel&src=trend_click&vertical=trends)
+Chris Rock
 
 [Show more](https://x.com/explore/tabs/for-you)
 

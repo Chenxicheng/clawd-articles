@@ -402,10 +402,23 @@
     {
       "title": "雪踏乌云 on X: \"Hermes 从 0 到 1 教程\" / X",
       "url": "https://x.com/pluvio9yte/status/2041571378021986486",
-      "path": "雪踏乌云-on-X-Hermes-从-0-到-1-教程-X/雪踏乌云-on-X-Hermes-从-0-到-1-教程-X_EN.md",
-      "saved_at": "2026-04-08T14:59:35.545802",
+      "path": "雪踏乌云-on-X-Hermes-从-0-到-1-教程-X/雪踏乌云-on-X-Hermes-从-0-到-1-教程-X.md",
+      "saved_at": "2026-04-09T09:27:01.872947",
       "category": "X/Twitter",
       "tags": [
+        "X/Twitter"
+      ],
+      "lang": "cn"
+    },
+    {
+      "title": "Lance Martin on X: \"Launching Claude Managed Agents\" / X",
+      "url": "https://x.com/rlancemartin/status/2041927992986009773",
+      "path": "Lance-Martin-on-X-Launching-Claude-Managed-Agents-X/Lance-Martin-on-X-Launching-Claude-Managed-Agents-X_EN.md",
+      "saved_at": "2026-04-09T09:22:03.932261",
+      "category": "X/Twitter",
+      "tags": [
+        "Claude",
+        "AI Agent",
         "X/Twitter"
       ],
       "lang": "en"
