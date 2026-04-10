@@ -1,6 +1,6 @@
 # 文章索引
 
-共 34 篇，更新于 2026-04-09 09:27
+共 36 篇，更新于 2026-04-10 12:27
 
 
 ## AI Agent (15)
@@ -21,8 +21,9 @@
 - [Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X](Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X/Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X_ALL.md) #X/Twitter #Middleware #Harness  _2026-03-27_
 - [花叔 on X: "Harness Engineering又他妈是啥？" / X](花叔-on-X-Harness-Engineering又他妈是啥？-X/花叔-on-X-Harness-Engineering又他妈是啥？-X.md) #X/Twitter #Harness  _2026-03-27_
 
-## Harness (7)
+## Harness (8)
 
+- [Leo on X: "OpenAI/Cursor/Anthropic 同时发了 Harness   Engineering，我用半年踩坑验证了他们说的每一条" / X](Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X/Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X.md) #Anthropic #OpenAI #X/Twitter  _2026-04-10_
 - [Akshay 🚀 on X: "The Anatomy of an Agent Harness " / X](Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 - [Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架](Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架/Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架.md)  _2026-04-06_
 - [huangserva on X: "别再卷模型了，2026 年 Agent 的胜负手在 Harness！给你的Agent 搭"操作系统"吧" / X](huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X/huangserva-on-X-别再卷模型了，2026-年-Agent-的胜负手在-Harness！给你的Agent-搭操作系统吧-X.md) #AI Agent #X/Twitter  _2026-03-30_
@@ -72,14 +73,16 @@
 
 - [Viv on X: "How we build evals for Deep Agents" / X](Viv-on-X-How-we-build-evals-for-Deep-Agents-X/Viv-on-X-How-we-build-evals-for-Deep-Agents-X_ALL.md) #X/Twitter #Evals #AI Agent  _2026-03-27_
 
-## Anthropic (3)
+## Anthropic (4)
 
+- [Leo on X: "OpenAI/Cursor/Anthropic 同时发了 Harness   Engineering，我用半年踩坑验证了他们说的每一条" / X](Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X/Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X.md) #Harness #OpenAI #X/Twitter  _2026-04-10_
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Memory #X/Twitter  _2026-04-01_
 - [Yuker on X: "一文了解 Anthropic 的 Claude Code 源码：为什么它就是比别人好用？" / X](Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X/Yuker-on-X-一文了解-Anthropic-的-Claude-Code-源码：为什么它就是比别人好用？-X.md) #Claude #X/Twitter  _2026-04-01_
 - [Harness design for long-running application development](Harness-design-for-long-running-application-development/Harness-design-for-long-running-application-development_ALL.md) #Harness #AI Agent  _2026-03-28_
 
-## OpenAI (1)
+## OpenAI (2)
 
+- [Leo on X: "OpenAI/Cursor/Anthropic 同时发了 Harness   Engineering，我用半年踩坑验证了他们说的每一条" / X](Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X/Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X.md) #Harness #Anthropic #X/Twitter  _2026-04-10_
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #Codex #Best Practices #AI Coding Agent  _2026-03-28_
 
 ## AI Coding Agent (1)
@@ -102,9 +105,11 @@
 
 - [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 
-## X/Twitter (29)
+## X/Twitter (31)
 
-- [雪踏乌云 on X: "Hermes 从 0 到 1 教程" / X](雪踏乌云-on-X-Hermes-从-0-到-1-教程-X/雪踏乌云-on-X-Hermes-从-0-到-1-教程-X_EN.md)  _2026-04-09_
+- [粥粥聊 AI on X: "从 0到满速：DMIT + Hysteria2 自建节点完全指南" / X](粥粥聊-AI-on-X-从-0到满速：DMIT-+-Hysteria2-自建节点完全指南-X/粥粥聊-AI-on-X-从-0到满速：DMIT-+-Hysteria2-自建节点完全指南-X.md)  _2026-04-10_
+- [Leo on X: "OpenAI/Cursor/Anthropic 同时发了 Harness   Engineering，我用半年踩坑验证了他们说的每一条" / X](Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X/Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X.md) #Harness #Anthropic #OpenAI  _2026-04-10_
+- [雪踏乌云 on X: "Hermes 从 0 到 1 教程" / X](雪踏乌云-on-X-Hermes-从-0-到-1-教程-X/雪踏乌云-on-X-Hermes-从-0-到-1-教程-X.md)  _2026-04-09_
 - [Lance Martin on X: "Launching Claude Managed Agents" / X](Lance-Martin-on-X-Launching-Claude-Managed-Agents-X/Lance-Martin-on-X-Launching-Claude-Managed-Agents-X_EN.md) #Claude #AI Agent  _2026-04-09_
 - [铁锤人 on X: "10大我希望早点知道的Claude code使用技巧" / X](铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X/铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X.md) #Claude  _2026-04-08_
 - [Tw93 on X: "你不知道的 Agent：原理、架构与工程实践" / X](Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X/Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X.md) #AI Agent  _2026-04-07_
