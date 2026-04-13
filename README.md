@@ -1,6 +1,6 @@
 # 文章索引
 
-共 36 篇，更新于 2026-04-10 12:27
+共 38 篇，更新于 2026-04-13 12:05
 
 
 ## AI Agent (15)
@@ -39,8 +39,10 @@
 - [Best practices – Codex | OpenAI Developers](Best-practices-Codex-OpenAI-Developers/Best-practices-Codex-OpenAI-Developers_ALL.md) #OpenAI #Best Practices #AI Coding Agent  _2026-03-28_
 - [Elvis on X: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]" / X](Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X/Elvis-on-X-OpenClaw-+-CodexClaudeCode-Agent-Swarm-The-One-Person-Dev-Team-[Full-Setup]-X_ALL.md) #X/Twitter #OpenClaw #Claude #AI Agent  _2026-03-27_
 
-## Claude (15)
+## Claude (17)
 
+- [Roland.W on X: "我如何用 Claude Code 在3分钟搭建一套可迭代的永续 AI 工作系统 " / X](Roland.W-on-X-我如何用-Claude-Code-在3分钟搭建一套可迭代的永续-AI-工作系统-X/Roland.W-on-X-我如何用-Claude-Code-在3分钟搭建一套可迭代的永续-AI-工作系统-X.md) #X/Twitter  _2026-04-13_
+- [铁锤人 on X: "Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）" / X](铁锤人-on-X-Obsidian-+-Claude-Code：用-AI-大神-Karpathy-的方法搭一个真正可用的第二大脑（全教程）-X/铁锤人-on-X-Obsidian-+-Claude-Code：用-AI-大神-Karpathy-的方法搭一个真正可用的第二大脑（全教程）-X.md) #X/Twitter  _2026-04-13_
 - [Lance Martin on X: "Launching Claude Managed Agents" / X](Lance-Martin-on-X-Launching-Claude-Managed-Agents-X/Lance-Martin-on-X-Launching-Claude-Managed-Agents-X_EN.md) #AI Agent #X/Twitter  _2026-04-09_
 - [铁锤人 on X: "10大我希望早点知道的Claude code使用技巧" / X](铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X/铁锤人-on-X-10大我希望早点知道的Claude-code使用技巧-X.md) #X/Twitter  _2026-04-08_
 - [实践哥MinLi on X: "搞懂缓存机制，从Gemma4到Claude Code省80%Token" / X](实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X/实践哥MinLi-on-X-搞懂缓存机制，从Gemma4到Claude-Code省80%Token-X.md) #X/Twitter  _2026-04-07_
@@ -105,8 +107,10 @@
 
 - [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 
-## X/Twitter (31)
+## X/Twitter (33)
 
+- [Roland.W on X: "我如何用 Claude Code 在3分钟搭建一套可迭代的永续 AI 工作系统 " / X](Roland.W-on-X-我如何用-Claude-Code-在3分钟搭建一套可迭代的永续-AI-工作系统-X/Roland.W-on-X-我如何用-Claude-Code-在3分钟搭建一套可迭代的永续-AI-工作系统-X.md) #Claude  _2026-04-13_
+- [铁锤人 on X: "Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）" / X](铁锤人-on-X-Obsidian-+-Claude-Code：用-AI-大神-Karpathy-的方法搭一个真正可用的第二大脑（全教程）-X/铁锤人-on-X-Obsidian-+-Claude-Code：用-AI-大神-Karpathy-的方法搭一个真正可用的第二大脑（全教程）-X.md) #Claude  _2026-04-13_
 - [粥粥聊 AI on X: "从 0到满速：DMIT + Hysteria2 自建节点完全指南" / X](粥粥聊-AI-on-X-从-0到满速：DMIT-+-Hysteria2-自建节点完全指南-X/粥粥聊-AI-on-X-从-0到满速：DMIT-+-Hysteria2-自建节点完全指南-X.md)  _2026-04-10_
 - [Leo on X: "OpenAI/Cursor/Anthropic 同时发了 Harness   Engineering，我用半年踩坑验证了他们说的每一条" / X](Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X/Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X.md) #Harness #Anthropic #OpenAI  _2026-04-10_
 - [雪踏乌云 on X: "Hermes 从 0 到 1 教程" / X](雪踏乌云-on-X-Hermes-从-0-到-1-教程-X/雪踏乌云-on-X-Hermes-从-0-到-1-教程-X.md)  _2026-04-09_
