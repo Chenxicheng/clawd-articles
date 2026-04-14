@@ -1,10 +1,11 @@
 # 文章索引
 
-共 38 篇，更新于 2026-04-13 12:05
+共 41 篇，更新于 2026-04-14 14:43
 
 
-## AI Agent (15)
+## AI Agent (16)
 
+- [数字生命卡兹克 on X: "用好Agent最重要的技巧不是Skills，是这四个字。" / X](数字生命卡兹克-on-X-用好Agent最重要的技巧不是Skills，是这四个字。-X/数字生命卡兹克-on-X-用好Agent最重要的技巧不是Skills，是这四个字。-X.md) #Skill #X/Twitter  _2026-04-14_
 - [Lance Martin on X: "Launching Claude Managed Agents" / X](Lance-Martin-on-X-Launching-Claude-Managed-Agents-X/Lance-Martin-on-X-Launching-Claude-Managed-Agents-X_EN.md) #Claude #X/Twitter  _2026-04-09_
 - [Tw93 on X: "你不知道的 Agent：原理、架构与工程实践" / X](Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X/Tw93-on-X-你不知道的-Agent：原理、架构与工程实践-X.md) #X/Twitter  _2026-04-07_
 - [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #Skill #X/Twitter  _2026-04-07_
@@ -21,8 +22,9 @@
 - [Sydney Runkle on X: "How Middleware Lets You Customize Your Agent Harness" / X](Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X/Sydney-Runkle-on-X-How-Middleware-Lets-You-Customize-Your-Agent-Harness-X_ALL.md) #X/Twitter #Middleware #Harness  _2026-03-27_
 - [花叔 on X: "Harness Engineering又他妈是啥？" / X](花叔-on-X-Harness-Engineering又他妈是啥？-X/花叔-on-X-Harness-Engineering又他妈是啥？-X.md) #X/Twitter #Harness  _2026-03-27_
 
-## Harness (8)
+## Harness (9)
 
+- [Yanhua on X: "Harness Engineering:从执行者到系统架构师" / X](Yanhua-on-X-Harness-Engineering从执行者到系统架构师-X/Yanhua-on-X-Harness-Engineering从执行者到系统架构师-X.md) #X/Twitter  _2026-04-14_
 - [Leo on X: "OpenAI/Cursor/Anthropic 同时发了 Harness   Engineering，我用半年踩坑验证了他们说的每一条" / X](Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X/Leo-on-X-OpenAICursorAnthropic-同时发了-Harness-Engineering，我用半年踩坑验证了他们说的每一条-X.md) #Anthropic #OpenAI #X/Twitter  _2026-04-10_
 - [Akshay 🚀 on X: "The Anatomy of an Agent Harness " / X](Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X/Akshay-🚀-on-X-The-Anatomy-of-an-Agent-Harness-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 - [Harness Engineering 在讨论什么：三个 Scaling 维度的统一框架](Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架/Harness-Engineering-在讨论什么：三个-Scaling-维度的统一框架.md)  _2026-04-06_
@@ -103,12 +105,16 @@
 
 - [Troy Hua on X: "How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code  (video](Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video/Troy-Hua-on-X-How-Anthropic-Built-7-Layers-of-Memory-and-a-Dreaming-System-for-Claude-Code-(video_EN.md) #Claude #Anthropic #X/Twitter  _2026-04-01_
 
-## Skill (1)
+## Skill (2)
 
+- [数字生命卡兹克 on X: "用好Agent最重要的技巧不是Skills，是这四个字。" / X](数字生命卡兹克-on-X-用好Agent最重要的技巧不是Skills，是这四个字。-X/数字生命卡兹克-on-X-用好Agent最重要的技巧不是Skills，是这四个字。-X.md) #AI Agent #X/Twitter  _2026-04-14_
 - [Daniel San on X: "Skills can use subagents, Subagents can use skills" / X](Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X/Daniel-San-on-X-Skills-can-use-subagents,-Subagents-can-use-skills-X_EN.md) #AI Agent #X/Twitter  _2026-04-07_
 
-## X/Twitter (33)
+## X/Twitter (36)
 
+- [Peter Pang on X: "Why Your “AI-First” Strategy Is Probably Wrong  " / X](Peter-Pang-on-X-Why-Your-“AI-First”-Strategy-Is-Probably-Wrong-X/Peter-Pang-on-X-Why-Your-“AI-First”-Strategy-Is-Probably-Wrong-X_EN.md)  _2026-04-14_
+- [数字生命卡兹克 on X: "用好Agent最重要的技巧不是Skills，是这四个字。" / X](数字生命卡兹克-on-X-用好Agent最重要的技巧不是Skills，是这四个字。-X/数字生命卡兹克-on-X-用好Agent最重要的技巧不是Skills，是这四个字。-X.md) #AI Agent #Skill  _2026-04-14_
+- [Yanhua on X: "Harness Engineering:从执行者到系统架构师" / X](Yanhua-on-X-Harness-Engineering从执行者到系统架构师-X/Yanhua-on-X-Harness-Engineering从执行者到系统架构师-X.md) #Harness  _2026-04-14_
 - [Roland.W on X: "我如何用 Claude Code 在3分钟搭建一套可迭代的永续 AI 工作系统 " / X](Roland.W-on-X-我如何用-Claude-Code-在3分钟搭建一套可迭代的永续-AI-工作系统-X/Roland.W-on-X-我如何用-Claude-Code-在3分钟搭建一套可迭代的永续-AI-工作系统-X.md) #Claude  _2026-04-13_
 - [铁锤人 on X: "Obsidian + Claude Code：用 AI 大神 Karpathy 的方法搭一个真正可用的第二大脑（全教程）" / X](铁锤人-on-X-Obsidian-+-Claude-Code：用-AI-大神-Karpathy-的方法搭一个真正可用的第二大脑（全教程）-X/铁锤人-on-X-Obsidian-+-Claude-Code：用-AI-大神-Karpathy-的方法搭一个真正可用的第二大脑（全教程）-X.md) #Claude  _2026-04-13_
 - [粥粥聊 AI on X: "从 0到满速：DMIT + Hysteria2 自建节点完全指南" / X](粥粥聊-AI-on-X-从-0到满速：DMIT-+-Hysteria2-自建节点完全指南-X/粥粥聊-AI-on-X-从-0到满速：DMIT-+-Hysteria2-自建节点完全指南-X.md)  _2026-04-10_
